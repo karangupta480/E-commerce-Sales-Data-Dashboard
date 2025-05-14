@@ -30,9 +30,15 @@ This project presents a comprehensive **E-commerce Sales Dashboard** created usi
 
 2. Dashboard Development (Power BI)
 
-   * KPIs: Total Sales, Profit, Orders, Avg. Order Value
-   * Visuals: Monthly trends, region-wise breakdown, category performance
-   * Filters for dynamic analysis
+   Data Analysis and Visualization in Power BI
+ Sales performance by city and category.
+ Monthly trends in Quantity and Total_Price.
+ Top-performing products and regions.
+ Comparison of Quantity and revenue (Total_Price) across time.
+ Gender Based Sales
+ Payment Category wise analysis
+ Visuals Cards for Total sales, Average Order Value, etc.
+ Engaging slicer to get more insight information
 
 📊 Key Insights
 
